@@ -1,0 +1,9 @@
+{
+  "id": "hover-link-preview",
+  "name": "Hover Link Preview",
+  "version": "1.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "悬停 [text](本地路径) 链接时通知 HoverExplorer (he) 弹出预览，支持阅读视图与 CodeMirror 编辑态。",
+  "author": "dlsdgj",
+  "isDesktopOnly": true
+}
